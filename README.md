@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreerag Pavithran</h1>
-<code align="center">Dedicated and efficient Full Stack Developer and Passionate UI Designer.</code>
+<h3 align="center">Dedicated and efficient Full Stack Developer and Passionate UI Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreerag-pavithran&label=Profile%20views&color=0e75b6&style=flat" alt="sreerag-pavithran" /> </p>
 
