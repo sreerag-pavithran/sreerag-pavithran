@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreerag Pavithran</h1>
-<h3 align="center">Dedicated and efficient full stack developer with passionate experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies. Spearheaded successful transition from the Front End to Full-Stack.</h3>
+<code align="center">Dedicated and efficient Full Stack Developer and Passionate UI Designer.</code>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreerag-pavithran&label=Profile%20views&color=0e75b6&style=flat" alt="sreerag-pavithran" /> </p>
 
